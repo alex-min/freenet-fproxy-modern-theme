@@ -1,4 +1,6 @@
 freenet-fproxy-modrern-theme
 ============================
 
-Freenet Fproxy (Web Interface) Modrern Theme
+Creation of a new Modern Theme for FProxy (Freenet Web Interface).
+
+The Theme is designed to be fully compatible with the current interface. 
